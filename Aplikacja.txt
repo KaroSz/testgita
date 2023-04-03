@@ -9,3 +9,7 @@
         System.out.println("Podaj hasło");
         System.out.println("Kliknij zaloguj");
     }
+
+        System.out.println("Podaj poprawne hasło");
+        System.out.println("Kliknij zaloguj");
+    }
