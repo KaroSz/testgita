@@ -11,5 +11,5 @@
     }
 
    public void przypomnijHaslo() {
-        System.out.println("Kliknij przycisk przypomnij hasło");
+        System.out.println("Kliknij na przycisk przypomnij hasło");
     }
