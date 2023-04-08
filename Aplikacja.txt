@@ -10,6 +10,6 @@
         System.out.println("Kliknij zaloguj");
     }
 
-        System.out.println("Podaj poprawne hasło");
-        System.out.println("Kliknij zaloguj");
+   public void przypomnijHaslo() {
+        System.out.println("Kliknij przycisk przypomnij hasło");
     }
